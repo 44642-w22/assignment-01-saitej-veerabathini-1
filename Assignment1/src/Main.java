@@ -5,17 +5,18 @@ import java.util.*;
  */
 public class Main {
 	public static void main(String[] args){
+// please uncomment the problems to run individually		
 		
-		problem1();
-		problem2();
-		problem3();
-		problem4();
-		problem5();
-		problem6();
-		problem7();
-		problem8();
-		problem9();
-		problem10();
+// 		problem1();
+// 		problem2();
+// 		problem3();
+// 		problem4();
+// 		problem5();
+// 		problem6();
+// 		problem7();
+// 		problem8();
+// 		problem9();
+// 		problem10();
 	}
 	
 	public static void problem1() {
